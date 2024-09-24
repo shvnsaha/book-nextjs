@@ -1,0 +1,225 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "name": "The Catcher in the Rye",
+      "description": "A story about a teenager named Holden Caulfield and his journey through life, dealing with complex emotions and alienation.",
+      "category": "Fiction",
+      "image": "https://cdn.britannica.com/94/181394-050-2F76F7EE/Reproduction-cover-edition-The-Catcher-in-the.jpg"
+    },
+    {
+      "id": "2",
+      "name": "To Kill a Mockingbird",
+      "description": "A classic novel dealing with serious issues like racial injustice in the Deep South, seen through the eyes of a child.",
+      "category": "Fiction",
+      "image": "https://m.media-amazon.com/images/I/81aY1lxk+9L._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Pride and Prejudice",
+      "description": "A timeless romance novel that explores themes of love, marriage, and societal expectations in 19th-century England.",
+      "category": "Classic",
+      "image": "https://m.media-amazon.com/images/I/712P0p5cXIL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": "4",
+      "name": "The Great Gatsby",
+      "description": "A novel set in the Jazz Age, it critiques the American Dream through the tragic story of Jay Gatsby.",
+      "category": "Classic",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTkxNTk1ODcxNl5BMl5BanBnXkFtZTcwMDI1OTMzOQ@@._V1_.jpg"
+    },
+    {
+      "id": "5",
+      "name": "The Lord of the Rings",
+      "description": "An epic fantasy tale of good vs. evil, centered around a magical ring and the fate of Middle-earth.",
+      "category": "Fantasy",
+      "image": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p28828_p_v8_ao.jpg"
+    },
+    {
+      "id": "6",
+      "name": "The Hobbit",
+      "description": "A prelude to The Lord of the Rings, this adventure follows Bilbo Baggins on his quest to help dwarves reclaim their homeland.",
+      "category": "Fantasy",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTcwNTE4MTUxMl5BMl5BanBnXkFtZTcwMDIyODM4OA@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "id": "7",
+      "name": "The Fault in Our Stars",
+      "description": "A heart-wrenching romance between two teenagers who meet in a cancer support group and confront the realities of illness and love.",
+      "category": "Young Adult",
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1660273739i/11870085.jpg"
+    },
+    {
+      "id": "8",
+      "name": "The Hunger Games",
+      "description": "A dystopian novel where teenagers are forced to participate in a televised fight to the death, exploring themes of survival and rebellion.",
+      "category": "Dystopian",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTcxNDI2NDAzNl5BMl5BanBnXkFtZTgwODM3MTc2MjE@._V1_.jpg"
+    },
+    {
+      "id": "9",
+      "name": "Harry Potter and the Sorcerer's Stone",
+      "description": "The first book in the Harry Potter series, where Harry discovers he's a wizard and attends Hogwarts School of Witchcraft and Wizardry.",
+      "category": "Fantasy",
+      "image": "https://images.moviesanywhere.com/143cdb987186a1c8f94d4f18de211216/fdea56fa-2703-47c1-8da8-70fc5382e1ea.jpg"
+    },
+    {
+      "id": "10",
+      "name": "New Book",
+      "description": "grehgrhrh",
+      "category": "ffgv",
+      "image": "https://plus.unsplash.com/premium_photo-1664474619075-644dd191935f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8aW1hZ2V8ZW58MHx8MHx8fDA%3D"
+    },
+    {
+      "id": "11",
+      "name": "shovan",
+      "description": "fvgergergre",
+      "category": "hrthrth",
+      "image": "https://plus.unsplash.com/premium_photo-1664474619075-644dd191935f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8aW1hZ2V8ZW58MHx8MHx8fDA%3D"
+    },
+    {
+      "id": "12",
+      "name": "egeg",
+      "description": "ghg",
+      "category": "rhgtrh",
+      "image": "https://plus.unsplash.com/premium_photo-1664474619075-644dd191935f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8aW1hZ2V8ZW58MHx8MHx8fDA%3D"
+    }
+  ],
+  "comments": [
+    {
+      "postId": "1",
+      "comment": "Great insight into a troubled mind!",
+      "id": "ba6e"
+    },
+    {
+      "postId": "1",
+      "comment": "Holden's character is so relatable.",
+      "id": "35f6"
+    },
+    {
+      "postId": "1",
+      "comment": "A raw, honest story.",
+      "id": "4b03"
+    },
+    {
+      "postId": "2",
+      "comment": "Deep and thought-provoking.",
+      "id": "fdeb"
+    },
+    {
+      "postId": "2",
+      "comment": "Powerful narrative about justice.",
+      "id": "c2af"
+    },
+    {
+      "postId": "2",
+      "comment": "A must-read for everyone.",
+      "id": "006f"
+    },
+    {
+      "postId": "3",
+      "comment": "Loved the wit and romance.",
+      "id": "8509"
+    },
+    {
+      "postId": "3",
+      "comment": "Classic tale of love and pride.",
+      "id": "721f"
+    },
+    {
+      "postId": "3",
+      "comment": "Austen's best work.",
+      "id": "7d1a"
+    },
+    {
+      "postId": "4",
+      "comment": "The writing is beautiful.",
+      "id": "f21e"
+    },
+    {
+      "postId": "4",
+      "comment": "Gatsby’s story is unforgettable.",
+      "id": "598b"
+    },
+    {
+      "postId": "4",
+      "comment": "A timeless American classic.",
+      "id": "b665"
+    },
+    {
+      "postId": "5",
+      "comment": "Epic adventure at its best!",
+      "id": "143d"
+    },
+    {
+      "postId": "5",
+      "comment": "Tolkien’s world-building is unmatched.",
+      "id": "492b"
+    },
+    {
+      "postId": "5",
+      "comment": "A fantasy masterpiece.",
+      "id": "0b88"
+    },
+    {
+      "postId": "6",
+      "comment": "Bilbo's journey is so fun!",
+      "id": "57b7"
+    },
+    {
+      "postId": "6",
+      "comment": "Charming and adventurous.",
+      "id": "2183"
+    },
+    {
+      "postId": "6",
+      "comment": "A delightful fantasy story.",
+      "id": "4201"
+    },
+    {
+      "postId": "7",
+      "comment": "Beautifully written and emotional.",
+      "id": "ebfe"
+    },
+    {
+      "postId": "7",
+      "comment": "Heartwarming and heartbreaking.",
+      "id": "486b"
+    },
+    {
+      "postId": "7",
+      "comment": "A touching love story.",
+      "id": "9c20"
+    },
+    {
+      "postId": "8",
+      "comment": "Thrilling and fast-paced!",
+      "id": "a6a2"
+    },
+    {
+      "postId": "8",
+      "comment": "Katniss is an amazing character.",
+      "id": "fa52"
+    },
+    {
+      "postId": "8",
+      "comment": "Couldn't stop reading!",
+      "id": "4ffb"
+    },
+    {
+      "postId": "9",
+      "comment": "Magical and exciting.",
+      "id": "293d"
+    },
+    {
+      "postId": "9",
+      "comment": "The start of an amazing series.",
+      "id": "578e"
+    },
+    {
+      "postId": "9",
+      "comment": "A must-read for fantasy fans.",
+      "id": "2686"
+    }
+  ]
+}
